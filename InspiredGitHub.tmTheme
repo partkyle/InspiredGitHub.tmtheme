@@ -45,13 +45,13 @@
                     
                     <!-- Highlighting -->
                     <key>lineHighlight</key>
-                    <string>#f5f5f5</string>
+                    <string>#f8eec7</string>
                     <key>findHighlight</key>
                     <string>#f8eec7</string>
                     <key>findHighlightForeground</key>
                     <string>#323232</string>
                     <key>selection</key>
-                    <string>#f8eec7</string>
+                    <string>#f5f5f5</string>
                     <key>selectionBorder</key>
                     <string>#ffffff</string>
                     
